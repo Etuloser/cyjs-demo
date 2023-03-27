@@ -1,0 +1,1042 @@
+[
+  {
+    "FROM": "DEVICE-2(Eth0/9)",
+    "TO": "DEVICE-54"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/2)",
+    "TO": "DEVICE-6"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/10)",
+    "TO": "DEVICE-55"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/18)",
+    "TO": "DEVICE-4"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/7)",
+    "TO": "DEVICE-52"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/8)",
+    "TO": "DEVICE-53"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/16)",
+    "TO": "DEVICE-61"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/12)",
+    "TO": "DEVICE-57"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/5)",
+    "TO": "DEVICE-50"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/11)",
+    "TO": "DEVICE-56"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/3)",
+    "TO": "DEVICE-1"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/0)",
+    "TO": "DEVICE-49"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/17)",
+    "TO": "DEVICE-62"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/13)",
+    "TO": "DEVICE-58"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/20)",
+    "TO": "DEVICE-3"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/6)",
+    "TO": "DEVICE-51"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/4)",
+    "TO": "DEVICE-1"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/14)",
+    "TO": "DEVICE-59"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/1)",
+    "TO": "DEVICE-5"
+  },
+  {
+    "FROM": "DEVICE-2(Eth0/19)",
+    "TO": "DEVICE-63"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/28)",
+    "TO": "DEVICE-27"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/18)",
+    "TO": "DEVICE-20"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/21)",
+    "TO": "DEVICE-13"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/16)",
+    "TO": "DEVICE-18"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/34)",
+    "TO": "DEVICE-32"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/39)",
+    "TO": "DEVICE-37"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/45)",
+    "TO": "DEVICE-11"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/32)",
+    "TO": "DEVICE-30"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/43)",
+    "TO": "DEVICE-9"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/13)",
+    "TO": "DEVICE-16"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/31)",
+    "TO": "DEVICE-29"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/19)",
+    "TO": "DEVICE-21"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/41)",
+    "TO": "DEVICE-39"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/4)",
+    "TO": "DEVICE-9"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/50)",
+    "TO": "DEVICE-44"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/1)",
+    "TO": "DEVICE-3"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/12)",
+    "TO": "DEVICE-16"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/25)",
+    "TO": "DEVICE-25"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/49)",
+    "TO": "DEVICE-43"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/9)",
+    "TO": "DEVICE-14"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/7)",
+    "TO": "DEVICE-12"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/23)",
+    "TO": "DEVICE-23"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/26)",
+    "TO": "DEVICE-25"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/35)",
+    "TO": "DEVICE-33"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/11)",
+    "TO": "DEVICE-15"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/46)",
+    "TO": "DEVICE-40"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/37)",
+    "TO": "DEVICE-35"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/6)",
+    "TO": "DEVICE-11"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/56)",
+    "TO": "DEVICE-12"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/40)",
+    "TO": "DEVICE-38"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/0)",
+    "TO": "DEVICE-6"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/27)",
+    "TO": "DEVICE-26"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/47)",
+    "TO": "DEVICE-41"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/22)",
+    "TO": "DEVICE-23"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/2)",
+    "TO": "DEVICE-7"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/53)",
+    "TO": "DEVICE-2"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/38)",
+    "TO": "DEVICE-36"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/8)",
+    "TO": "DEVICE-13"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/48)",
+    "TO": "DEVICE-42"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/17)",
+    "TO": "DEVICE-19"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/42)",
+    "TO": "DEVICE-1"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/3)",
+    "TO": "DEVICE-8"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/44)",
+    "TO": "DEVICE-7"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/36)",
+    "TO": "DEVICE-34"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/29)",
+    "TO": "DEVICE-27"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/10)",
+    "TO": "DEVICE-14"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/51)",
+    "TO": "DEVICE-45"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/55)",
+    "TO": "DEVICE-48"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/20)",
+    "TO": "DEVICE-22"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/15)",
+    "TO": "DEVICE-18"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/54)",
+    "TO": "DEVICE-47"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/30)",
+    "TO": "DEVICE-28"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/24)",
+    "TO": "DEVICE-24"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/5)",
+    "TO": "DEVICE-10"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/33)",
+    "TO": "DEVICE-31"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/14)",
+    "TO": "DEVICE-17"
+  },
+  {
+    "FROM": "DEVICE-4(Eth0/52)",
+    "TO": "DEVICE-46"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/15)",
+    "TO": "DEVICE-60"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/9)",
+    "TO": "DEVICE-54"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/2)",
+    "TO": "DEVICE-6"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/10)",
+    "TO": "DEVICE-55"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/18)",
+    "TO": "DEVICE-4"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/7)",
+    "TO": "DEVICE-52"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/8)",
+    "TO": "DEVICE-53"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/16)",
+    "TO": "DEVICE-61"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/12)",
+    "TO": "DEVICE-57"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/5)",
+    "TO": "DEVICE-50"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/11)",
+    "TO": "DEVICE-56"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/3)",
+    "TO": "DEVICE-2"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/0)",
+    "TO": "DEVICE-49"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/17)",
+    "TO": "DEVICE-62"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/13)",
+    "TO": "DEVICE-58"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/20)",
+    "TO": "DEVICE-3"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/6)",
+    "TO": "DEVICE-51"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/4)",
+    "TO": "DEVICE-2"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/14)",
+    "TO": "DEVICE-59"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/1)",
+    "TO": "DEVICE-5"
+  },
+  {
+    "FROM": "DEVICE-1(Eth0/19)",
+    "TO": "DEVICE-63"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/28)",
+    "TO": "DEVICE-27"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/18)",
+    "TO": "DEVICE-20"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/21)",
+    "TO": "DEVICE-13"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/16)",
+    "TO": "DEVICE-18"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/34)",
+    "TO": "DEVICE-32"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/39)",
+    "TO": "DEVICE-37"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/45)",
+    "TO": "DEVICE-11"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/32)",
+    "TO": "DEVICE-30"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/43)",
+    "TO": "DEVICE-9"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/13)",
+    "TO": "DEVICE-16"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/31)",
+    "TO": "DEVICE-29"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/19)",
+    "TO": "DEVICE-21"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/41)",
+    "TO": "DEVICE-39"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/4)",
+    "TO": "DEVICE-9"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/50)",
+    "TO": "DEVICE-44"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/1)",
+    "TO": "DEVICE-3"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/12)",
+    "TO": "DEVICE-16"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/25)",
+    "TO": "DEVICE-25"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/49)",
+    "TO": "DEVICE-43"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/9)",
+    "TO": "DEVICE-14"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/7)",
+    "TO": "DEVICE-12"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/23)",
+    "TO": "DEVICE-23"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/26)",
+    "TO": "DEVICE-25"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/35)",
+    "TO": "DEVICE-33"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/11)",
+    "TO": "DEVICE-15"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/46)",
+    "TO": "DEVICE-40"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/37)",
+    "TO": "DEVICE-35"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/6)",
+    "TO": "DEVICE-11"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/56)",
+    "TO": "DEVICE-12"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/40)",
+    "TO": "DEVICE-38"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/0)",
+    "TO": "DEVICE-4"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/27)",
+    "TO": "DEVICE-26"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/47)",
+    "TO": "DEVICE-41"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/22)",
+    "TO": "DEVICE-23"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/2)",
+    "TO": "DEVICE-7"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/53)",
+    "TO": "DEVICE-2"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/38)",
+    "TO": "DEVICE-36"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/8)",
+    "TO": "DEVICE-13"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/48)",
+    "TO": "DEVICE-42"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/17)",
+    "TO": "DEVICE-19"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/42)",
+    "TO": "DEVICE-1"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/3)",
+    "TO": "DEVICE-8"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/44)",
+    "TO": "DEVICE-7"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/36)",
+    "TO": "DEVICE-34"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/29)",
+    "TO": "DEVICE-27"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/10)",
+    "TO": "DEVICE-14"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/51)",
+    "TO": "DEVICE-45"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/55)",
+    "TO": "DEVICE-48"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/20)",
+    "TO": "DEVICE-22"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/15)",
+    "TO": "DEVICE-18"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/54)",
+    "TO": "DEVICE-47"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/30)",
+    "TO": "DEVICE-28"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/24)",
+    "TO": "DEVICE-24"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/5)",
+    "TO": "DEVICE-10"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/33)",
+    "TO": "DEVICE-31"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/14)",
+    "TO": "DEVICE-17"
+  },
+  {
+    "FROM": "DEVICE-6(Eth0/52)",
+    "TO": "DEVICE-46"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/28)",
+    "TO": "DEVICE-27"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/18)",
+    "TO": "DEVICE-20"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/21)",
+    "TO": "DEVICE-13"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/16)",
+    "TO": "DEVICE-18"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/34)",
+    "TO": "DEVICE-32"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/39)",
+    "TO": "DEVICE-37"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/45)",
+    "TO": "DEVICE-11"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/32)",
+    "TO": "DEVICE-30"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/43)",
+    "TO": "DEVICE-9"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/13)",
+    "TO": "DEVICE-16"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/31)",
+    "TO": "DEVICE-29"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/19)",
+    "TO": "DEVICE-21"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/41)",
+    "TO": "DEVICE-39"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/4)",
+    "TO": "DEVICE-9"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/50)",
+    "TO": "DEVICE-44"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/1)",
+    "TO": "DEVICE-4"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/12)",
+    "TO": "DEVICE-16"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/25)",
+    "TO": "DEVICE-25"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/49)",
+    "TO": "DEVICE-43"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/9)",
+    "TO": "DEVICE-14"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/7)",
+    "TO": "DEVICE-12"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/23)",
+    "TO": "DEVICE-23"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/26)",
+    "TO": "DEVICE-25"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/35)",
+    "TO": "DEVICE-33"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/11)",
+    "TO": "DEVICE-15"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/46)",
+    "TO": "DEVICE-40"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/37)",
+    "TO": "DEVICE-35"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/6)",
+    "TO": "DEVICE-11"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/56)",
+    "TO": "DEVICE-12"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/40)",
+    "TO": "DEVICE-38"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/0)",
+    "TO": "DEVICE-6"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/27)",
+    "TO": "DEVICE-26"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/47)",
+    "TO": "DEVICE-41"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/22)",
+    "TO": "DEVICE-23"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/2)",
+    "TO": "DEVICE-7"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/53)",
+    "TO": "DEVICE-2"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/38)",
+    "TO": "DEVICE-36"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/8)",
+    "TO": "DEVICE-13"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/48)",
+    "TO": "DEVICE-42"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/17)",
+    "TO": "DEVICE-19"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/42)",
+    "TO": "DEVICE-1"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/3)",
+    "TO": "DEVICE-8"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/44)",
+    "TO": "DEVICE-7"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/36)",
+    "TO": "DEVICE-34"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/29)",
+    "TO": "DEVICE-27"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/10)",
+    "TO": "DEVICE-14"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/51)",
+    "TO": "DEVICE-45"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/55)",
+    "TO": "DEVICE-48"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/20)",
+    "TO": "DEVICE-22"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/15)",
+    "TO": "DEVICE-18"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/54)",
+    "TO": "DEVICE-47"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/30)",
+    "TO": "DEVICE-28"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/24)",
+    "TO": "DEVICE-24"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/5)",
+    "TO": "DEVICE-10"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/33)",
+    "TO": "DEVICE-31"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/14)",
+    "TO": "DEVICE-17"
+  },
+  {
+    "FROM": "DEVICE-3(Eth0/52)",
+    "TO": "DEVICE-46"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/28)",
+    "TO": "DEVICE-35"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/18)",
+    "TO": "DEVICE-26"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/21)",
+    "TO": "DEVICE-28"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/16)",
+    "TO": "DEVICE-25"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/34)",
+    "TO": "DEVICE-9"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/39)",
+    "TO": "DEVICE-42"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/45)",
+    "TO": "DEVICE-47"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/32)",
+    "TO": "DEVICE-39"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/43)",
+    "TO": "DEVICE-46"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/13)",
+    "TO": "DEVICE-23"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/31)",
+    "TO": "DEVICE-38"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/19)",
+    "TO": "DEVICE-27"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/41)",
+    "TO": "DEVICE-44"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/4)",
+    "TO": "DEVICE-16"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/1)",
+    "TO": "DEVICE-14"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/12)",
+    "TO": "DEVICE-13"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/25)",
+    "TO": "DEVICE-32"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/9)",
+    "TO": "DEVICE-20"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/7)",
+    "TO": "DEVICE-18"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/23)",
+    "TO": "DEVICE-30"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/26)",
+    "TO": "DEVICE-33"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/35)",
+    "TO": "DEVICE-7"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/11)",
+    "TO": "DEVICE-22"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/46)",
+    "TO": "DEVICE-48"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/37)",
+    "TO": "DEVICE-40"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/6)",
+    "TO": "DEVICE-18"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/40)",
+    "TO": "DEVICE-43"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/0)",
+    "TO": "DEVICE-14"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/27)",
+    "TO": "DEVICE-34"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/47)",
+    "TO": "DEVICE-12"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/22)",
+    "TO": "DEVICE-29"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/2)",
+    "TO": "DEVICE-15"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/38)",
+    "TO": "DEVICE-41"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/8)",
+    "TO": "DEVICE-19"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/17)",
+    "TO": "DEVICE-25"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/42)",
+    "TO": "DEVICE-45"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/3)",
+    "TO": "DEVICE-16"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/44)",
+    "TO": "DEVICE-2"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/36)",
+    "TO": "DEVICE-11"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/29)",
+    "TO": "DEVICE-36"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/10)",
+    "TO": "DEVICE-21"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/20)",
+    "TO": "DEVICE-27"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/15)",
+    "TO": "DEVICE-24"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/30)",
+    "TO": "DEVICE-37"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/24)",
+    "TO": "DEVICE-31"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/5)",
+    "TO": "DEVICE-17"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/33)",
+    "TO": "DEVICE-1"
+  },
+  {
+    "FROM": "DEVICE-5(Eth0/14)",
+    "TO": "DEVICE-23"
+  }
+]
