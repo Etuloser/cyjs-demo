@@ -10,4 +10,4 @@
 
 演示：
 
-![demo](../../../图片/文章截图/demo.gif)
+![demo.gif (1903×416) (raw.githubusercontent.com)](https://raw.githubusercontent.com/Etuloser/cyjs-demo/main/demo.gif)
